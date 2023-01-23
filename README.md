@@ -1,4 +1,5 @@
 # PhysX WASM for Webaverse client
+( let it build )
 
 ## Introduction ##
 Webaverse uses a WebAssembly Build of PhysX, a C++ open-source realtime physics engine middleware SDK developed by Nvidia.
